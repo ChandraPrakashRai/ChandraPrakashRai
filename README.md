@@ -50,4 +50,4 @@
 <!-- This is a simple visitor counter badge. -->
 ### 💖 Made with Love by Chandra Prakash
 
-![Visitor Count](https://profile-counter.glitch.me/ChandraPrakashRai/count.svg)
+![Visitor Count](https://hits.seeyou.space/github/ChandraPrakashRai/count.svg)
