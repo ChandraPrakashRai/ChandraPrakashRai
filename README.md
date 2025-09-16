@@ -10,7 +10,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 ---
 
 ## ✨ About Me
@@ -23,7 +22,6 @@
 
 ---
 
-<!-- This section shows your GitHub stats with a more eye-catching theme. -->
 ## 📊 GitHub Stats
 <p align="center">
     <a href="https://github.com/ChandraPrakashRai">
@@ -31,7 +29,6 @@
     </a>
 </p>
 
-<!-- This widget shows your coding activity via WakaTime. You need to link your WakaTime account to your GitHub to display this. -->
 <p align="center">
     <a href="https://github.com/ChandraPrakashRai">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakashRai&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
@@ -40,17 +37,15 @@
 
 ---
 
-<!-- These are animated GitHub streak trophies. -->
 ### 🔥 My GitHub Streak
 <p align="center">
     <a href="https://github.com/ChandraPrakashRai">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandraPrakashRai&theme=dark" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=ChandraPrakashRai&theme=github-dark-blue" alt="GitHub Streak" />
     </a>
 </p>
 
 ---
 
-<!-- This is a simple visitor counter badge. -->
 ### 💖 Made with Love by Chandra Prakash
 
-![Visitor Count](https://hits.seeyou.space/github/ChandraPrakashRai/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=ChandraPrakashRai&style=for-the-badge)
