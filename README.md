@@ -9,18 +9,18 @@
 ## 📊 GitHub Stats  
 
 <!-- GitHub Stats -->
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical&hide_border=true)
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandraPrakashRai&show_icons=true&theme=radical&hide_border=true)
 
 <!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandraPrakashRai&layout=compact&theme=radical&hide_border=true)
 
 <!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUserName&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChandraPrakashRai&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=YourUserName&theme=radical&no-frame=true&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=ChandraPrakashRai&theme=radical&no-frame=true&row=1&column=6)
 
 ---
 
@@ -40,11 +40,17 @@
 
 ## 🌟 Featured Projects  
 
-🔹 [Career Explorer]([https://your-career-explorer-link.com](https://chandra-prakash-rai-career-explorer.netlify.app/)) – 🚀 A deployed web platform that helps students explore career paths interactively.  
-🔹 [Landing Page Project](https://your-landing-page-link.com) – 🎨 A modern responsive landing page built with HTML, CSS, and JS.  
-🔹 [Digital MSME Assistant](#) – 🤖 Smart AI-powered web platform designed to improve MSME efficiency.  
-🔹 [Leetcode to GitHub Automation](#) – ⚡ GitHub action/extension to auto-push coding solutions directly from LeetCode.  
+🔹 [Career Explorer AI](https://chandra-prakash-rai-career-explorer.netlify.app/) –  
+**AI-powered platform guiding students with personalized career recommendations, solving confusion through skill-based insights and market trends.**  
 
+🔹 [Landing Page Project](https://your-landing-page-link.com) –  
+**Responsive modern landing page built with HTML, CSS, and JS to demonstrate UI/UX creativity.**  
+
+🔹 [Digital MSME Assistant](#) –  
+**Smart AI-driven assistant helping MSMEs enhance efficiency, streamline workflows, and boost productivity.**  
+
+🔹 [LeetCode to GitHub Automation](#) –  
+**Automation tool/extension to auto-push coding solutions directly from LeetCode to GitHub repositories.**  
 
 ---
 
@@ -56,4 +62,5 @@
 [![GFG](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YourGFGID)  
 
 ---
+
 ⭐ If you like my work, consider giving a star to my repositories!
